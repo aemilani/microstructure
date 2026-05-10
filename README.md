@@ -1,3 +1,3 @@
 # micro-structure
 
-Exploring concepts in market microstructure
+Exploring concepts in market microstructure.
